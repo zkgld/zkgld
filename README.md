@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Enzo!
 
-<!--
-**zkgld/zkgld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Desenvolvimento de Sistemas  
+💻 Aprendendo Python e Inteligência Artificial  
+📍 Praia Grande - SP  
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
+- Python  
+- Lógica de Programação  
+- Noções de IA  
+- Inglês básico/intermediário  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente estudando
+- Desenvolvimento de Sistemas  
+- Inteligência Artificial com Azure  
+
+## 📫 Contato
+- Email: 0000111729035sp@al.educacao.sp.gov.br
